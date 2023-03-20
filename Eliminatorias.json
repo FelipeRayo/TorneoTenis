@@ -1,0 +1,17 @@
+[
+    {
+        "Ronda": 1,
+        "NumeroJugador": 3,
+        "Resultado": "ObjectId()"
+    },
+    {
+        "Ronda": 3,
+        "NumeroJugador": 5,
+        "Resultado": "ObjectId()"
+    },
+    {
+        "Ronda": 4,
+        "NumeroJugador": 4,
+        "Resultado": "ObjectId()"
+    }
+]

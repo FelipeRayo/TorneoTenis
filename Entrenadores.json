@@ -1,0 +1,17 @@
+[
+    {
+        "Nombres": "Pepe",
+        "Apellidos": "Peréz",
+        "Club": "Deportivo tapas"
+    },
+    {
+        "Nombres": "Pepe",
+        "Apellidos": "Sierra",
+        "Club": "Deportivo mineiro"
+    },
+    {
+        "Nombres": "Pepe",
+        "Apellidos": "Gómez",
+        "Club": "Deportivo UJ"
+    }
+]

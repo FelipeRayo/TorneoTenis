@@ -1,0 +1,20 @@
+[
+    {
+    "Nombres": "Juliana",
+    "Apellidos": "Deantonio",
+    "Edad": 20,
+    "Categoría": "1ra"  
+},
+{
+    "Nombres": "Felipe",
+    "Apellidos": "Osorio",
+    "Edad": 20,
+    "Categoría": "1ra"  
+},
+{
+    "Nombres": "Catalina",
+    "Apellidos": "Riaño",
+    "Edad": 20,
+    "Categoría": "1ra"  
+}
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "Fecha": "20/03/2023",
+        "Hora": "08:00",
+        "Lugar": "Universidad Manuela Beltrán Sede Cajicá",
+        "Jugador1": "Juliana",
+        "Jugador2": "Catalina",
+        "Categoria": "1ra Femenino"
+    },
+    {
+        "Fecha": "20/03/2023",
+        "Hora": "08:00",
+        "Lugar": "Universidad Manuela Beltrán Sede Cajicá",
+        "Pareja1": "Juliana - Pepe",
+        "Pareja2": "Catalina - Felipe",
+        "Categoria": "1ra Dobles mixtos"
+    }
+]

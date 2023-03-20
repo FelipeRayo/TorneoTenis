@@ -1,0 +1,13 @@
+[
+    {
+        "_idEncuentro" : "ObjectId()",
+        "Set1": "6-1",
+        "Set2": "3-6",
+        "Tiebreak": "7-2"
+    },
+    {
+        "_idEncuentro" : "ObjectId()",
+        "Set1": "6-1",
+        "Set2": "6-2"
+    }
+]
